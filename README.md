@@ -1,6 +1,6 @@
 # BouncingCube v1.1
 
-Simple Unity 3D game developed be Tim Shen.
+Simple Unity 3D game developed by Tim Shen.
 
 ## Installation
 
