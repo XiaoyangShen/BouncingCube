@@ -1,0 +1,11 @@
+{
+  "User": {
+    "id": 4466,
+    "username": "xyshen",
+    "name": "xyshen",
+    "email": "xyshen@umich.edu",
+    "new_portrait": null,
+    "host": "https://gitlab.eecs.umich.edu",
+    "two_factor_enabled": false
+  }
+}
