@@ -16,4 +16,4 @@ Execute run.exe on any desktop with Windows or OSX
 
 ## Credits
 
-TODO: Write credits
+Thanks Wolverine Soft at UM for providing tutorials and the cute material for collectable 
